@@ -1,4 +1,4 @@
-FONTLOG for the Dosis fonts
+FONTLOG for the Dose and Dosis fonts
 
 This file provides detailed information on the Dosis 
 Font Software. This information should be distributed along with 
@@ -17,7 +17,12 @@ Documentation can be found at www.impallari.com/dosis
 To contribute to the project contact Pablo Impallari at 
 impallari@gmail.com
 
+Dose is the name used for the derived webfonts.
+
 ChangeLog
+
+02 July 2015 (HEbert Caballero) Dosis+Dose Package v1.0.0
+- 
 
 18 March 2012 (Pablo Impallari, Edgar Tolentino & Igino Marini) Dosis Family v1.007
 - Renamed family to "Dosis" to avoid a trademark dispute
@@ -39,7 +44,7 @@ ChangeLog
 Acknowledgements
 
 If you make modifications be sure to add your name (N), email (E), web-address
-(if you have one) (W) and description (D). This list is in alphabetical order.
+(if you have one) (W) and description (D).
 
 N: Igino Marini
 E: mail@iginomarini.com
@@ -55,5 +60,9 @@ N: Edgar Tolentino
 E: dosis.creativa@gmail.com
 D: Designer
 
+N: Hebert Caballero
+E: cablop@cablop.net
+W: http://cablop.net
+D: Web Developer
 
 
