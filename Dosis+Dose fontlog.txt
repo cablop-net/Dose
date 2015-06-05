@@ -21,8 +21,11 @@ Dose is the name used for the derived webfonts.
 
 ChangeLog
 
-02 July 2015 (HEbert Caballero) Dosis+Dose Package v1.0.0
-- 
+05 July 2015 (Hebert Caballero) Dosis+Dose Package v1.0.0
+- Renamed family to Dose to be able to create the webfonts without infringing the original Dosis License.
+- Created a Dose License to protect both Dose and Dosis.
+- Created desktop versions to create the webfonts, but not intended for active distribution.
+- Created the webfonts with restriction for desktop usage to not take the place of Dosis on desktop.
 
 18 March 2012 (Pablo Impallari, Edgar Tolentino & Igino Marini) Dosis Family v1.007
 - Renamed family to "Dosis" to avoid a trademark dispute
